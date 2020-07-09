@@ -4,6 +4,7 @@
 - :robot: I like robots
 - :crab: And Rust
 - :eyes: And googly eyes
+- 🦙 And alpacas
 - :rainbow: Pronouns: he/him/his
 - :tv: Fun fact: My googley eyes have been on TV 
 
