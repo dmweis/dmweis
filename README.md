@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**dmweis/dmweis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :wave: My name is David
+- :robot: I like robots
+- :crab: And Rust
+- :eyes: And googly eyes
+- :rainbow: Pronouns: he/him/his
+- :tv: Fun fact: My googley eyes have been on TV 
 
-Here are some ideas to get you started:
+##### Social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :camera: [Instagram](https://www.instagram.com/davidmakesrobots/) If you want to see some robots
+- :necktie: [LinkedIn](https://www.linkedin.com/in/david-weis/) If you want to talk work
+- :email: (On my profile) If you want to ask me something
