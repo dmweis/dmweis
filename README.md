@@ -5,7 +5,7 @@
 - :crab: And Rust
 - :eyes: And googly eyes
 - 🦙 And alpacas
-- :rainbow: Pronouns: he/him/his
+- :rainbow: Pronouns: he/him
 - :tv: Fun fact: My googley eyes have been on TV 
 
 ##### Social
